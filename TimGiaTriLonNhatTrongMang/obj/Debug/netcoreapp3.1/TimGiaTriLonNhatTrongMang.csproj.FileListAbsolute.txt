@@ -1,0 +1,12 @@
+E:\BT C#\TimGiaTriLonNhatTrongMang\TimGiaTriLonNhatTrongMang\bin\Debug\netcoreapp3.1\TimGiaTriLonNhatTrongMang.exe
+E:\BT C#\TimGiaTriLonNhatTrongMang\TimGiaTriLonNhatTrongMang\bin\Debug\netcoreapp3.1\TimGiaTriLonNhatTrongMang.deps.json
+E:\BT C#\TimGiaTriLonNhatTrongMang\TimGiaTriLonNhatTrongMang\bin\Debug\netcoreapp3.1\TimGiaTriLonNhatTrongMang.runtimeconfig.json
+E:\BT C#\TimGiaTriLonNhatTrongMang\TimGiaTriLonNhatTrongMang\bin\Debug\netcoreapp3.1\TimGiaTriLonNhatTrongMang.runtimeconfig.dev.json
+E:\BT C#\TimGiaTriLonNhatTrongMang\TimGiaTriLonNhatTrongMang\bin\Debug\netcoreapp3.1\TimGiaTriLonNhatTrongMang.dll
+E:\BT C#\TimGiaTriLonNhatTrongMang\TimGiaTriLonNhatTrongMang\bin\Debug\netcoreapp3.1\TimGiaTriLonNhatTrongMang.pdb
+E:\BT C#\TimGiaTriLonNhatTrongMang\TimGiaTriLonNhatTrongMang\obj\Debug\netcoreapp3.1\TimGiaTriLonNhatTrongMang.AssemblyInfoInputs.cache
+E:\BT C#\TimGiaTriLonNhatTrongMang\TimGiaTriLonNhatTrongMang\obj\Debug\netcoreapp3.1\TimGiaTriLonNhatTrongMang.AssemblyInfo.cs
+E:\BT C#\TimGiaTriLonNhatTrongMang\TimGiaTriLonNhatTrongMang\obj\Debug\netcoreapp3.1\TimGiaTriLonNhatTrongMang.csproj.CoreCompileInputs.cache
+E:\BT C#\TimGiaTriLonNhatTrongMang\TimGiaTriLonNhatTrongMang\obj\Debug\netcoreapp3.1\TimGiaTriLonNhatTrongMang.dll
+E:\BT C#\TimGiaTriLonNhatTrongMang\TimGiaTriLonNhatTrongMang\obj\Debug\netcoreapp3.1\TimGiaTriLonNhatTrongMang.pdb
+E:\BT C#\TimGiaTriLonNhatTrongMang\TimGiaTriLonNhatTrongMang\obj\Debug\netcoreapp3.1\TimGiaTriLonNhatTrongMang.genruntimeconfig.cache
